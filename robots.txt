@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rvi2911-hue.github.io/spr-site/sitemap.xml
